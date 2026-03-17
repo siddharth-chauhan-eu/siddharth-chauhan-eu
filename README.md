@@ -18,13 +18,20 @@ Building a **Macro Data Observatory** — a structured data platform for macroec
 
 **Macro Data Observatory**
 
-A multi-stage data engineering system:
+A data engineering system for macroeconomic datasets.
 
-* Data ingestion (World Bank, IMF, FRED)
-* Data transformation pipelines
+**Current Stage**
+
+* Local ETL pipeline (in progress)
+* API-based data ingestion
+
+**Planned Evolution**
+
 * PostgreSQL data warehouse
-* Analytical layer (future)
-* Pipeline automation (future)
+* Analytical layer
+* Pipeline automation
+
+👉 Repository: https://github.com/siddharth-chauhan-eu/macro-data-observatory
 
 ---
 
