@@ -44,12 +44,6 @@ A data engineering system for macroeconomic datasets.
 
 ---
 
-### Repository
-
-👉 macro-data-observatory (primary project)
-
----
-
 ### Direction
 
 Focused on building **real, production-style data systems**
