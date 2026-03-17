@@ -1,16 +1,49 @@
-## Hi there 👋
+# Siddharth Chauhan
 
-<!--
-**siddharth-chauhan-eu/siddharth-chauhan-eu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Systems & Data Engineering
 
-Here are some ideas to get you started:
+Building a **Macro Data Observatory** — a structured data platform for macroeconomic datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Current Focus
+
+* Data Engineering Fundamentals
+* ETL Pipeline Design
+* Structured Data Modeling
+
+---
+
+### Core Project
+
+**Macro Data Observatory**
+
+A multi-stage data engineering system:
+
+* Data ingestion (World Bank, IMF, FRED)
+* Data transformation pipelines
+* PostgreSQL data warehouse
+* Analytical layer (future)
+* Pipeline automation (future)
+
+---
+
+### Tech Stack (Current)
+
+* Python
+* PostgreSQL (planned)
+* Pandas
+* REST APIs
+
+---
+
+### Repository
+
+👉 macro-data-observatory (primary project)
+
+---
+
+### Direction
+
+Focused on building **real, production-style data systems**
+with emphasis on **clarity, structure, and long-term scalability**.
