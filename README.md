@@ -37,6 +37,22 @@ A data engineering system for collecting, organizing, and preparing macroeconomi
 
 ---
 
+### Portfolio
+
+**Python Learning**  
+Structured Python portfolio covering language fundamentals, applied data analytics, and reproducible research projects.  
+[python-learning](https://github.com/siddharth-chauhan-eu/python-learning)
+
+**SQL Learning**  
+Structured SQL portfolio focused on relational fundamentals, querying, and database-oriented problem solving.  
+[sql-learning](https://github.com/siddharth-chauhan-eu/sql-learning)
+
+**Macro Data Observatory**  
+Data engineering platform for collecting, organizing, and preparing macroeconomic datasets for analysis.  
+[macro-data-observatory](https://github.com/siddharth-chauhan-eu/macro-data-observatory)
+
+---
+
 ### Tech Stack
 
 **Current**
